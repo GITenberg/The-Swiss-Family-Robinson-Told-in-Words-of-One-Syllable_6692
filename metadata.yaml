@@ -1,0 +1,37 @@
+_repo: The-Swiss-Family-Robinson-Told-in-Words-of-One-Syllable_6692
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wyss, Johann David
+    alias: Wyss, J. D. (Johann David)
+    birthdate: 1743
+    deathdate: 1818
+    gutenberg_agent_id: '1327'
+    url: http://www.gutenberg.org/2009/agents/1327
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Johann_David_Wyss
+    - http://en.wikipedia.org/wiki/Johann_David_Wyss
+  - agent_name: Aikin, Lucy
+    alias: Godolphin, Mary
+    birthdate: 1781
+    deathdate: 1864
+    gutenberg_agent_id: '2157'
+    url: http://www.gutenberg.org/2009/agents/2157
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Aikin
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcsh 'Survival -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Swiss Family Robinson, Told in Words of One Syllable
+url: http://www.gutenberg.org/ebooks/6692
